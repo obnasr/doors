@@ -2659,7 +2659,7 @@
 	/*39*/  GLX04_4J_40:"https://uploads-ssl.webflow.com/5ef8db65b4b00295c68e856c/5f175e6380282b4523e5c008_GLX04_39.png",
 	/*40*/  GLX04_193_2:"https://uploads-ssl.webflow.com/5ef8db65b4b00295c68e856c/5f175e6321f18893ccd8c03d_GLX04_40.png",
 	
-	/*End of Code RS*/
+	/*End of Code RS */
 	
 	 };	
 	 
