@@ -31,7 +31,7 @@
 	 TR17_SH213_2:"https://uploads-ssl.webflow.com/5ef8db65b4b00295c68e856c/5f13340d791ec9e8864c23ac_TR17_SH213_2.png",
 	 TR17_SPK_3303055_6F0079:"https://uploads-ssl.webflow.com/5ef8db65b4b00295c68e856c/5f13340ed13f492f75adf458_TR17_SPK_3303055_6F0079.png",
 	 TR17_2228_2:"https://uploads-ssl.webflow.com/5ef8db65b4b00295c68e856c/5f133403b066caaf2622cc51_TR17_2228_2.png",
-	 TR17_2345:"https://uploads-ssl.webflow.com/5ef8db65b4b00295c68e856c/5f1334038b08ac6fad33cea3_TR17_2345.png",
+	 TR17_2345:"https://uploads-ssl.webflow.com/5ef8db65b4b00295c68e856c/5f1334038b08ac6fad33cea3_TR17_2345.png",  
 	 TR17_2503:"https://uploads-ssl.webflow.com/5ef8db65b4b00295c68e856c/5f133407a1dac695816a0b6a_TR17_2503.png",
 	 TR17_3054:"https://uploads-ssl.webflow.com/5ef8db65b4b00295c68e856c/5f1334055a496b0a24769770_TR17_3054.png",
 	 TR17_10202_EF32_2:"https://uploads-ssl.webflow.com/5ef8db65b4b00295c68e856c/5f13340c9f6473d5cb07cb65_TR17_10202_EF32_2.png",
